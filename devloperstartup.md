@@ -40,7 +40,9 @@ There are two ways to run the project. The recommended way is from a github down
 
 3. Restart the server
   > **mwc-084037:ghdata gogginss$** python -m ghdata.server
+  
   to run in the background:
+  
   > python -m ghdata.server >ghdata.log 2>ghdata.err &
 
 4. Start Front End
